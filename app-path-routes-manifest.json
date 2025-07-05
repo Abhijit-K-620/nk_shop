@@ -1,0 +1,18 @@
+{
+  "/(client)/api/webhook/route": "/api/webhook",
+  "/favicon.ico/route": "/favicon.ico",
+  "/_not-found/page": "/_not-found",
+  "/studio/[[...tool]]/page": "/studio/[[...tool]]",
+  "/(client)/blog/page": "/blog",
+  "/(client)/blog/[slug]/page": "/blog/[slug]",
+  "/(client)/brand/[slug]/page": "/brand/[slug]",
+  "/(client)/cart/page": "/cart",
+  "/(client)/category/[slug]/page": "/category/[slug]",
+  "/(client)/orders/page": "/orders",
+  "/(client)/deal/page": "/deal",
+  "/(client)/page": "/",
+  "/(client)/product/[slug]/page": "/product/[slug]",
+  "/(client)/shop/page": "/shop",
+  "/(client)/success/page": "/success",
+  "/(client)/wishlist/page": "/wishlist"
+}
